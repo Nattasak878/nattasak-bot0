@@ -1,5 +1,6 @@
 #Nattasak-Bot (Discord)
-https://github.com/Nattasak878/Nattasak-Bot/commit/92977c079554271ba53ae16310782fe9b39cca05
+
+https://github.com/Nattasak878/nattasak-bot0/blob/main/main.py
 
 The main commands
 ![IMG_0700](https://user-images.githubusercontent.com/115492332/194994012-359db55c-3a92-4f22-ae59-c7963701b9fc.jpg)
